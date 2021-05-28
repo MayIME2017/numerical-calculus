@@ -1,0 +1,4 @@
+ ERROR    INITIAL INTERVAL VALUE     FINAL INTERVAL VALUE     KEY    MAXIMUM ITERATIONS
+1.0e-06             0                        20                3          10000
+
+
